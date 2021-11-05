@@ -12,8 +12,8 @@ email=medinawjoseluis@gmail.com
 
 about=conjunto de herramientas utiles para cartografia
 
-tracker=https://github.com/jlmw78/cartofrm.git
-repository=https://github.com/jlmw78/cartoipec.git
+tracker=https://github.com/jlmw78/carto_frm.git
+repository=https://github.com/jlmw78/carto_frm.git
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=herramientas, cartografia, capas
 
-homepage=https://github.com/jlmw78/cartoipec.git
+homepage=https://github.com/jlmw78/carto_frm.git
 category=Plugins
 icon=icon.png
 # experimental flag
