@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/ipec_tools" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
