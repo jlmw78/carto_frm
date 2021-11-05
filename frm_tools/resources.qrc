@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/frm_tools" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
